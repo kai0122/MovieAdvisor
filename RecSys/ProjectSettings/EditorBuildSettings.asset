@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/SampleScene.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 0
+    path: Assets/Scenes/WebSelector.unity
+    guid: b789649740eb946c5b759b4c1f23f026
+  - enabled: 0
+    path: Assets/Scenes/ARDemo.unity
+    guid: 225261662cc8b464db32bedf47d8d222
+  - enabled: 0
+    path: Assets/Scenes/Prototype2.unity
+    guid: e20836e3b928446d488b35e171ec8f87
+  - enabled: 0
+    path: Assets/Scenes/Prototype3.unity
+    guid: 50061043f590e488ab596ce11d415952
+  - enabled: 0
+    path: Assets/Scenes/Prototype2_v2.unity
+    guid: 285d42464644142cc9cce73074b9b9b1
+  - enabled: 0
+    path: Assets/Scenes/Prototype2_v3.unity
+    guid: dc1e8a08db2a243bd94af3e696e8cdb6
+  - enabled: 0
+    path: Assets/Scenes/Prototype2_v4.unity
+    guid: e3adede0fa99642bb8529a578b0928ef
+  - enabled: 0
+    path: Assets/Scenes/Prototype2_v5.unity
+    guid: a4146301bf27d4164b1a4eb426c4b50c
+  - enabled: 0
+    path: Assets/Scenes/Prototype2_v6.unity
+    guid: 866a58634970b4a75a86a5f133ddf27d
+  - enabled: 0
+    path: Assets/Scenes/Prototype2_v7.unity
+    guid: c3b9971c3e58e43819e9fbfaaa587b93
+  - enabled: 0
+    path: Assets/Scenes/Prototype2_v8.unity
+    guid: 290cf3787cfd743a1b525b82283cec96
+  - enabled: 0
+    path: Assets/Scenes/Prototype2_v9.unity
+    guid: d2485c386d5244836b618bb5a6729f6e
+  - enabled: 0
+    path: Assets/Scenes/Prototype2_v12.unity
+    guid: 8f263f996a87f4b83aaa8d60e6bf98cd
+  - enabled: 0
+    path: Assets/Scenes/Prototype2_v10.unity
+    guid: d60b0eefa0d044dd6b23dceddceaada5
+  - enabled: 0
+    path: Assets/Scenes/Prototype2_v11.unity
+    guid: bcc64c36b0f8b43c0bab50e68bdceefd
+  - enabled: 0
+    path: Assets/Scenes/Prototype2_v11_v2.unity
+    guid: a4a0b8a6cd0324a1680974467107ed99
+  - enabled: 1
+    path: Assets/Scenes/Final_System.unity
+    guid: d641aa21ffdfa4338ac6523ea92a080a
+  m_configObjects: {}
