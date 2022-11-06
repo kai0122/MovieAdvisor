@@ -48,4 +48,4 @@ Please cite our paper in your publications if our repository helps your research
 
 ## License
 The source code is available under the MIT license.
-See [LICENSE](/LICENSE.txt) for more information.
+See [LICENSE](/LICENSE) for more information.
