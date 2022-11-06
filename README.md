@@ -1,4 +1,6 @@
+This code implements the **MovieAdvisor** AR personalized movie recommendation system published in [Touching the Explanations: Explaining Movie Recommendation Scores in Mobile Augmented Reality]()
 MovieAdvisor is an AR movie PRS that provides a recommendation score for scanned movies based on previously user-liked movies.
+
 This repository contains the C# code for MovieAdvisor developed in Unity3D and the demo app built for Android and IOS phones.
 The video illustration of MovieAdvisor can be found at: https://youtu.be/qbtdEYhpu2Q.
 
