@@ -5,10 +5,10 @@ The video illustration of MovieAdvisor can be found at: https://youtu.be/qbtdEYh
 ## Usage
 
 MovieAdvisor allows users to scan movie posters on the street or in a movie theater with an AR interface. After detecting a movie poster, MovieAdvisor will give the scanned movie a recommendation score. The calculation of the recommendation score is composed of four recommendation factors:
-preferred actors
-preferred genres
-user movie affinity, based on what similar users have also liked
-third-party movie rating averages
+1. preferred actors
+2. preferred genres
+3. user movie affinity, based on what similar users have also liked
+4. third-party movie rating averages
 
 The main view of MovieAdvisor contains basic information about the scanned movie, including the title, storyline, actors, and genres.
 It also shows a recommendation score for the movie and allows users to like the scanned movie by clicking on a heart icon next to the movie title.
@@ -37,8 +37,8 @@ Users' favorite movie list | The setting view | The Search view
 
 ## Demo Applications
 
-The Android demo app can be found in [build.apk](/RecSys/App/build.apk).
-The IOS demo app can be found in [ios_build.apk]().
+- The Android demo app can be found in [build.apk](/RecSys/App/).
+- The IOS demo app can be found in [ios_build.apk](/RecSys/App/).
 
 ## Citation
 Please cite our paper in your publications if our repository helps your research.
