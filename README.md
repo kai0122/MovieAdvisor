@@ -45,9 +45,9 @@ Users' favorite movie list | The setting view | The Search view
 <!--- - The IOS demo app can be found in [ios_build.apk](/RecSys/App/). -->
 
 Due to the limitations of hard-coded targets with Vuforia, the demo app only supports the scanning of the following four posters:
-Dark Phoenix | Soul | Soul | Soul
+Dark Phoenix | Soul | Wrath of Man | Tom and Jerry
 :------------------:|:------------------:|:------------------:|:------------------:|
-![](https://m.media-amazon.com/images/M/MV5BMmZmYTgwZGItNDIxMS00MmRkLWEzODQtYTllNzM0ZWE1NmQ5XkEyXkFqcGdeQXVyODQzNTE3ODc@._V1_.jpg)|![](https://i.imgur.com/3BKxJJo.jpg)|![](https://i.imgur.com/3BKxJJo.jpg)|![](https://i.imgur.com/3BKxJJo.jpg)
+<img src=https://i.imgur.com/Q6s6aaW.png width=200/>|<img src=https://i.imgur.com/zGe3WJ3.png width=210/>|<img src=https://i.imgur.com/Doehy4Y.png width=205/>|<img src=https://i.imgur.com/21io9DQ.png width=205/>
 
 ## Citation
 Please cite our paper in your publications if our repository helps your research.
