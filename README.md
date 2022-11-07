@@ -44,6 +44,11 @@ Users' favorite movie list | The setting view | The Search view
 - The Android demo app can be found in [build.apk](/RecSys/App/).
 <!--- - The IOS demo app can be found in [ios_build.apk](/RecSys/App/). -->
 
+Due to hard-coded AR augmented target, the demo app only supports the scanning of the following four posters:
+Dark Phoenix | Soul | Soul | Soul
+:------------------:|:------------------:|:------------------:|:------------------:|
+![](https://m.media-amazon.com/images/M/MV5BMmZmYTgwZGItNDIxMS00MmRkLWEzODQtYTllNzM0ZWE1NmQ5XkEyXkFqcGdeQXVyODQzNTE3ODc@._V1_.jpg)|![](https://i.imgur.com/3BKxJJo.jpg)|![](https://i.imgur.com/3BKxJJo.jpg)|![](https://i.imgur.com/3BKxJJo.jpg)
+
 ## Citation
 Please cite our paper in your publications if our repository helps your research.
 
