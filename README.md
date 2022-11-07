@@ -42,7 +42,7 @@ Users' favorite movie list | The setting view | The Search view
 ## Demo Applications
 
 - The Android demo app can be found in [build.apk](/RecSys/App/).
-- The IOS demo app can be found in [ios_build.apk](/RecSys/App/).
+%- The IOS demo app can be found in [ios_build.apk](/RecSys/App/).
 
 ## Citation
 Please cite our paper in your publications if our repository helps your research.
