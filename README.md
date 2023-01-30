@@ -52,7 +52,10 @@ Dark Phoenix | Soul | Wrath of Man | Tom and Jerry
 ## Citation
 Please cite our paper in your publications if our repository helps your research.
 
-     P. -K. Yang, O. L. Alvarado Rodriguez, F. Gutiérrez and K. Verbert, "Touching the Explanations: Explaining Movie Recommendation Scores in Mobile Augmented Reality," 2022 IEEE International Conference on Artificial Intelligence and Virtual Reality (AIVR), CA, USA, 2022, pp. 157-162, doi: 10.1109/AIVR56993.2022.00032.
+     P. -K. Yang, O. L. Alvarado Rodriguez, F. Gutiérrez and K. Verbert, 
+     "Touching the Explanations: Explaining Movie Recommendation Scores in Mobile Augmented Reality," 
+     2022 IEEE International Conference on Artificial Intelligence and Virtual Reality (AIVR), CA, USA, 2022, 
+     pp. 157-162, doi: 10.1109/AIVR56993.2022.00032.
 
 
 ## Contact
