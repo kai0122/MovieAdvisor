@@ -1,4 +1,4 @@
-This code implements the **MovieAdvisor** AR personalized movie recommendation system published in [Touching the Explanations: Explaining Movie Recommendation Scores in Mobile Augmented Reality]().
+This code implements the **MovieAdvisor** AR personalized movie recommendation system published in [Touching the Explanations: Explaining Movie Recommendation Scores in Mobile Augmented Reality](https://ieeexplore.ieee.org/document/10024447).
 
 MovieAdvisor is an AR movie PRS that provides a recommendation score for scanned movies based on previously user-liked movies.
 
@@ -51,6 +51,9 @@ Dark Phoenix | Soul | Wrath of Man | Tom and Jerry
 
 ## Citation
 Please cite our paper in your publications if our repository helps your research.
+'''txt
+P. -K. Yang, O. L. Alvarado Rodriguez, F. Gutiérrez and K. Verbert, "Touching the Explanations: Explaining Movie Recommendation Scores in Mobile Augmented Reality," 2022 IEEE International Conference on Artificial Intelligence and Virtual Reality (AIVR), CA, USA, 2022, pp. 157-162, doi: 10.1109/AIVR56993.2022.00032.
+'''
 
 ## Contact
 - Po-Kai Yang (po-kai.yang@kuleuven.be)
